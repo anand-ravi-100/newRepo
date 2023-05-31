@@ -14,7 +14,7 @@ import org.apache.spark.sql.functions._
 
 object SelfPractice {
   case class schema(id:String,name:String,address1:String,address2:String,address3:String)
-  println("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+  println("ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678910")
   
   def main(args:Array[String]):Unit={
     
